@@ -1,5 +1,5 @@
 Config = {}
-Config.Debug = true -- visualize zones and print id of routing bucket
+Config.Debug = false -- visualize zones and print id of routing bucket
 Config.Zones = { 
     [1] = {
         zoneID = 1,
